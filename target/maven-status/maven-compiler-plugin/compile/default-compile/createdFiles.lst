@@ -1,0 +1,9 @@
+com\thoughtworks\assignment\merchant\galaxy\guide\OutputParser.class
+com\thoughtworks\assignment\merchant\galaxy\guide\Validator.class
+com\thoughtworks\assignment\merchant\galaxy\guide\MerchantGuideProcessor.class
+com\thoughtworks\assignment\merchant\galaxy\guide\CurrencyConverter.class
+com\thoughtworks\assignment\merchant\galaxy\guide\MerchantGuideException.class
+com\thoughtworks\assignment\merchant\galaxy\guide\RomanNumbers.class
+com\thoughtworks\assignment\merchant\galaxy\guide\RomanNumeralConverter.class
+com\thoughtworks\assignment\merchant\galaxy\guide\MerchantGuideConstatnts.class
+com\thoughtworks\assignment\merchant\galaxy\guide\InputParser.class
